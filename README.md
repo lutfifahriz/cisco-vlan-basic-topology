@@ -40,4 +40,4 @@ VLAN digunakan untuk memisahkan jaringan berdasarkan divisi atau kebutuhan terte
 ## Kekurangan
 - Membutuhkan konfigurasi tambahan
 - Memerlukan pemahaman routing dan switching
-- ![Topologi]()
+- ![Topologi](https://github.com/lutfifahriz/cisco-vlan-basic-topology/blob/main/BASIC%20VLAN.png)
